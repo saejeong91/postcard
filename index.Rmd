@@ -1,40 +1,35 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "PHILIP KONG"
+image: "pkong.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+    url: "https://www.linkedin.com/in/philip-kong-a0721a75/"
+  - label: Cellinfinity
+    url: "https://www.cellinfinitybio.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "philip.kong918@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Philip Kong is the Chief Operating Officer at Cellinfinity Bio. Before, Philip was the founding CEO of Cellinfinity Bio. An immunologist by training, Philip was the co-founder and the Chief Scientific Officer of Statera Therapeutics, which focuses on a novel nanoparticle platform to improve precision in autoimmune diseases, cancer immunotherapy, and allergies. At Statera, Philip oversaw the pre-clinical and CMC development of Statera’s lead nanotechnology. Under Philip and the management team, Statera was backed by venture investments and was awarded SBIR grant from the National Institutes of Health. Philip was also a consultant in Flagship Pioneering and a Blavatnik Fellow at Yale University, leading Yale faculties’ efforts to spin out their academic work into independent startups. His scientific excellence is also recognized by many awards such as the Fulbright scholarship. Philip also brings more than four years of buy-side experience in biotech hedge funds, where he performed due diligence on public/private biotech sector and led investment theses that significantly grew the fund’s portfolio. He received his B.S. in biology from California Institute of Technology, and PhD in immunobiology from Yale University.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Yale University** | New Haven, CT
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. in Immunology | September 2014 - May 2018
 
-**The University of California, Berkeley** | Berkeley, CA
+**California Institute of Technology** | Pasadena, CA
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Biology | September 2009 - May 2013
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Cellinfinity** | COO | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Flagship** | Internship | June 2014 - December 2017
